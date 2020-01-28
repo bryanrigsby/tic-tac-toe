@@ -1,4 +1,5 @@
 Tic-Tac-Toe game built with react.
 
 
-![Screen Shot 2020-01-27 at 12 12 52 PM](https://user-images.githubusercontent.com/12769416/73201321-5fb83500-40fe-11ea-808f-813d3543a37e.png)
+![Screen Shot 2020-01-28 at 10 50 06 AM](https://user-images.githubusercontent.com/12769416/73285669-fbf44180-41bb-11ea-8492-91c34242ece5.png)
+
